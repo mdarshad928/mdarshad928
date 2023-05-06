@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Md Arshad
-- 👀 I’m interested in Python/JavaScript 
-- 🌱 I’m currently learning Web Developement
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in Python/Golang/C related Projects.
+- 💞️ I’m looking to collaborate on projects related to above Programming Languages.
 - 📫 How to reach me ... mdarshad928@gmail.com
 
 <!---
